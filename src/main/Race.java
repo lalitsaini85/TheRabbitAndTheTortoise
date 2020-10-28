@@ -1,3 +1,9 @@
+/*  Created by IntelliJ IDEA.
+ *  User: Lalit Saini (lalitsaini85)
+ *  Date: 28/10/20
+ *  Time: 8:50 PM
+ *  File Name : Race.java
+ * */
 package main;
 
 import thread.rabbit.Rabbit;
