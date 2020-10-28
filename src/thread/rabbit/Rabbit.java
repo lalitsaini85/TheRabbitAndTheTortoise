@@ -1,3 +1,9 @@
+/*  Created by IntelliJ IDEA.
+ *  User: Lalit Saini (lalitsaini85)
+ *  Date: 28/10/20
+ *  Time: 8:49 PM
+ *  File Name : Rabbit.java
+ * */
 package thread.rabbit;
 
 import javax.swing.*;
