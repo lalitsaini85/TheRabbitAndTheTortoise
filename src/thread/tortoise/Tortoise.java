@@ -16,6 +16,8 @@ public class Tortoise extends Thread {
 
     @Override
     public void run() {
-
+        for (int index = 0; index < MILESTONES; index++) {
+            
+        }
     }
 }
