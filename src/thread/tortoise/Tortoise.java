@@ -9,4 +9,8 @@ public class Tortoise extends Thread {
     public Tortoise() {
         this.tortoise = new Thread(this, "Tortoise");
     }
+
+    public Thread getTortoise() {
+        return tortoise;
+    }
 }
